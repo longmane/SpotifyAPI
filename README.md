@@ -35,3 +35,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+The Spotify API official documentation can be found at https://developer.spotify.com/web-api/
+This site is intended to be an extension of their documentation but is in no way official.
+
+# API Basics
+Many applications these days have Application Programming Interfaces, or APIs. These allow a user with some basic web programming knowledge to use some of the app's functions and libraries and create custom features to suit their needs.
+They utilize URIs to communicate after authenticating, allowing the custom code to make calls to the API functions.
+This is incredibly useful for developers of third party applications need to pull data from or access the functionality of the application with the API.
+
+# Working with the Spotify API
+The Spotify API requires that the user first sets up OAuth.
+
